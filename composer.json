@@ -22,8 +22,8 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0",
-        "laradic/support": "dev-master",
+        "php": ">=5.5.9",
+        "laradic/support": "4.0.*",
         "wp-cli/php-cli-tools": "0.10.*",
         "illuminate/support": "~5.0",
         "illuminate/console": "~5.0"
